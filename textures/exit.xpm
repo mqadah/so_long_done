@@ -1,0 +1,49 @@
+/* XPM */
+static char *restaurant_32x32[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 10 1",
+/* colors */
+"  c #000000", /* Outline/Roof/Shadow */
+"R c #B00000", /* Brick Red */
+"r c #800000", /* Darker Brick/Mortar */
+"W c #FFFFFF", /* White for Sign */
+"Y c #FFEA00", /* Yellow Light/Sign Text */
+"B c #5A5A5A", /* Building Base/Pavement */
+"b c #303030", /* Door/Darker Base */
+"L c #888888", /* Lighter Base/Base Detail */
+"w c #ADD8E6", /* Window Glass */
+"d c #654321", /* Door Frame */
+/* pixels */
+"                                ",
+"  W W W W W W W W W W W W W W   ",
+"  W W W W W W W W W W W W W W   ",
+"  W W W W W W W W W W W W W W   ",
+"  W W W Y Y Y Y Y Y Y Y Y W W   ",
+"  W W W Y R E S T A U R A N T W ",
+"  W W W Y Y Y Y Y Y Y Y Y W W   ",
+"  W W W W W W W W W W W W W W   ",
+" R R R R R R R R R R R R R R R r",
+" R R R R R R R R R R R R R R R r",
+" R R r R R r R R r R R r R R r r",
+" R R R R R R R R R R R R R R R r",
+" R r R R R r R R R R r R R R R r",
+" R R R R R R R R R R R R R R R r",
+" r r r r r r r r r r r r r r r r",
+" r r r r r r r r r r r r r r r r",
+" R r R R R w w w w w R R R R R r",
+" R R R R R w Y Y Y w R R R R R r",
+" R R r R R w Y Y Y w R R r R R r",
+" R R R R R w Y Y Y w R R R R R r",
+" R r R R R w Y Y Y w R R r R R r",
+" R R R R R w w w w w R R R R R r",
+" r r r r r d d d d d r r r r r r",
+" r r r r r d d d d d r r r r r r",
+" L L L L L d d d d d L L L L L L",
+" L L L L L d d d d d L L L L L L",
+" L L L L L b b b b b L L L L L L",
+" L L L L L b b b b b L L L L L L",
+" B B B B B B B B B B B B B B B B",
+" B B B B B B B B B B B B B B B B",
+" B B B B B B B B B B B B B B B B",
+" B B B B B B B B B B B B B B B B"
+};
