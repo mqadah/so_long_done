@@ -1,0 +1,51 @@
+/* XPM */
+static char *spongebob_better_32x32[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 12 1",
+/* colors */
+"  c #000000", /* Black/Outline */
+"Y c #FFEA00", /* Spongebob Bright Yellow */
+"O c #FFCC00", /* Spongebob Orange/Sponge Texture */
+"B c #0000CC", /* Dark Blue Eyes */
+"W c #FFFFFF", /* White Eyes/Teeth */
+"R c #FF0000", /* Red Tie */
+"G c #008000", /* Green Tie */
+"D c #004D00", /* Dark Green Pants */
+"b c #996633", /* Brown Pants */
+"P c #FF99CC", /* Pink Cheeks */
+"L c #CCCCCC", /* Light Gray Shirt */
+"S c #888888", /* Shadow/Detail */
+/* pixels */
+"                                ",
+"           S S S S S S S        ",
+"          S Y Y Y Y Y Y Y S     ",
+"         S Y Y O Y Y O Y Y S    ",
+"        S Y O Y Y Y Y Y Y O S   ",
+"       S Y Y Y Y O Y Y Y Y Y S  ",
+"      S Y O Y Y Y Y O Y Y Y Y S ",
+"      S Y Y Y Y Y Y Y Y O Y Y S ",
+"     S Y O Y Y O Y Y Y Y Y Y O S",
+"     S Y Y W W W W W W W W Y Y S",
+"     S Y W B B B W B B B W Y Y S",
+"     S Y W B B B W B B B W Y Y S",
+"     S Y W B B B W B B B W Y Y S",
+"     S Y W W W W W W W W W Y Y S",
+"     S Y P W W W W W W W P Y Y S",
+"     S Y Y S S S S S S S Y Y Y S",
+"     S Y Y Y Y Y Y Y Y Y Y Y Y S",
+"     S Y Y Y Y Y Y Y Y Y Y Y Y S",
+"     S Y Y Y Y Y Y Y Y Y Y Y Y S",
+"     S L L L L L L L L L L L L S",
+"     S L G G G G G G G G G G L S",
+"     S L G R G R G R G G G G L S",
+"     S L D D D D D D D D D D D S",
+"     b b D D D D D D D D D D D S",
+"     b b b b b b b b b b b b b b",
+"     b b b b b b b b b b b b b b",
+"     b b b b b b b b b b b b b b",
+"     b b b b b b b b b b b b b b",
+"     b b b b b b b b b b b b b b",
+"     b b b b b b b b b b b b b b",
+"                                ",
+"                                "
+};

@@ -1,0 +1,47 @@
+/* XPM */
+static char *burger_32x32[] = {
+/* columns rows colors chars-per-pixel */
+"32 32 8 1",
+/* colors */
+"  c #000000", /* Outline */
+"B c #996633", /* Bun (Darker Brown) */
+"b c #CC9966", /* Bun (Lighter Brown) */
+"P c #663300", /* Patty (Dark Brown) */
+"C c #FFD700", /* Cheese (Gold) */
+"G c #008000", /* Lettuce (Green) */
+"R c #FF0000", /* Tomato (Red) */
+"S c #E0C0A0", /* Sesame Seeds (off-white) */
+/* pixels */
+"                                ",
+"                                ",
+"                bbbbb           ",
+"              bbbbbbbbb         ",
+"             bbbbbbbbbbb        ",
+"            bSbbbbbbbbbSb       ",
+"           bSbbbbbbbbbbbSb      ",
+"          b SbbbbbbbbbbbS b     ",
+"         b  bbbbbbbbbbbbb  b    ",
+"         b bbbbbbbbbbbbbbb b    ",
+"        B BBBBBBBBBBBBBBBBB B   ",
+"       B BBBBBBBBBBBBBBBBBBB B  ",
+"       B BBBBBBBBBBBBBBBBBBB B  ",
+"      G GGGGGGGGGGGGGGGGGGGGG G ",
+"      G GGGGGGGGGGGGGGGGGGGGG G ",
+"     C CCCCCCCCCCCCCCCCCCCCCCCC ",
+"     C CCCCCCCCCCCCCCCCCCCCCCCC ",
+"     C CCCCCCCCCCCCCCCCCCCCCCCC ",
+"     R RRRRRRRRRRRRRRRRRRRRRRRR ",
+"     P PPPPPPPPPPPPPPPPPPPPPPPP ",
+"     P PPPPPPPPPPPPPPPPPPPPPPPP ",
+"     P PPPPPPPPPPPPPPPPPPPPPPPP ",
+"     P PPPPPPPPPPPPPPPPPPPPPPPP ",
+"     B BBBBBBBBBBBBBBBBBBBBBBBB ",
+"     B BBBBBBBBBBBBBBBBBBBBBBBB ",
+"     B BBBBBBBBBBBBBBBBBBBBBBBB ",
+"    B BBBBBBBBBBBBBBBBBBBBBBBBB ",
+"   B BBBBBBBBBBBBBBBBBBBBBBBBBBB",
+"  B BBBBBBBBBBBBBBBBBBBBBBBBBBBBB",
+"                                ",
+"                                ",
+"                                "
+};
